@@ -35,3 +35,11 @@ Spotify API via spotipy
 Pandas for data manipulation
 
 ExcelWriter for exporting analysis results
+
+📂 Project Structure
+│
+├── unclaimedmusicalworkrightshares.tsv    # Input dataset
+├── intern_project.ipynb                   # Main Python jupyter notebook script
+├── artist_unclaimed_analysis.xlsx         # Output report
+├── README.md                              # Project documentation
+
